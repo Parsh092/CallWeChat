@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CallWeChat</string>
+    <string name="enter_mobile_number_and_press_button_then_you_will_received_an_otp">Enter mobile number and press button then you will received an OTP</string>
+    <string name="verify_by_the_phone_number">Verify by the Phone Number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_the_otp">Enter the OTP</string>
+    <string name="say_somthing">say somthing</string>
+    <string name="type_here">Type here</string>
+</resources>

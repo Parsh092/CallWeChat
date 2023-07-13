@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161104701201",
+    "project_id": "callwechat-a665f",
+    "storage_bucket": "callwechat-a665f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161104701201:android:7a1d09f277eafbc91f0eb0",
+        "android_client_info": {
+          "package_name": "com.parsh.callwechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161104701201-lsfkhu4klri389hk5bolthjbsti0ocg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqeflLNYT-kQFLpVP2beomoEF4rH_o4z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161104701201-lsfkhu4klri389hk5bolthjbsti0ocg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
